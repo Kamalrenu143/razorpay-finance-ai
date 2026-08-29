@@ -1,0 +1,49 @@
+transaction_id,issue,amount,settlement_amount,priority,ai_explanation,recommended_action
+TXN00002,Refund requires review,299,299,MEDIUM,The transaction was refunded and should be checked against the refund record.,Verify the refund amount and refund status.
+TXN00004,Refund requires review,4999,4999,MEDIUM,The transaction was refunded and should be checked against the refund record.,Verify the refund amount and refund status.
+TXN00008,Refund requires review,1499,1599,MEDIUM,The transaction was refunded and should be checked against the refund record.,Verify the refund amount and refund status.
+TXN00009,Refund requires review,199,199,MEDIUM,The transaction was refunded and should be checked against the refund record.,Verify the refund amount and refund status.
+TXN00010,Refund requires review,1999,1999,MEDIUM,The transaction was refunded and should be checked against the refund record.,Verify the refund amount and refund status.
+TXN00011,Settlement pending,4999,0,MEDIUM,The payment was successful but the settlement has not completed yet.,Monitor the settlement and check again later.
+TXN00014,Settlement pending,799,0,MEDIUM,The payment was successful but the settlement has not completed yet.,Monitor the settlement and check again later.
+TXN00018,Settlement pending,299,0,MEDIUM,The payment was successful but the settlement has not completed yet.,Monitor the settlement and check again later.
+TXN00019,Amount mismatch,1999,2249,HIGH,Settlement amount is higher than the transaction amount.,Verify the settlement record.
+TXN00020,Refund requires review,799,799,MEDIUM,The transaction was refunded and should be checked against the refund record.,Verify the refund amount and refund status.
+TXN00023,Refund requires review,499,499,MEDIUM,The transaction was refunded and should be checked against the refund record.,Verify the refund amount and refund status.
+TXN00024,Refund requires review,1999,1999,MEDIUM,The transaction was refunded and should be checked against the refund record.,Verify the refund amount and refund status.
+TXN00025,Settlement pending,2999,0,MEDIUM,The payment was successful but the settlement has not completed yet.,Monitor the settlement and check again later.
+TXN00027,Settlement pending,499,0,MEDIUM,The payment was successful but the settlement has not completed yet.,Monitor the settlement and check again later.
+TXN00028,Settlement pending,499,0,MEDIUM,The payment was successful but the settlement has not completed yet.,Monitor the settlement and check again later.
+TXN00033,Settlement pending,2999,0,MEDIUM,The payment was successful but the settlement has not completed yet.,Monitor the settlement and check again later.
+TXN00034,Refund requires review,2999,2999,MEDIUM,The transaction was refunded and should be checked against the refund record.,Verify the refund amount and refund status.
+TXN00035,Settlement pending,1999,0,MEDIUM,The payment was successful but the settlement has not completed yet.,Monitor the settlement and check again later.
+TXN00037,Refund requires review,299,299,MEDIUM,The transaction was refunded and should be checked against the refund record.,Verify the refund amount and refund status.
+TXN00043,Settlement pending,1999,0,MEDIUM,The payment was successful but the settlement has not completed yet.,Monitor the settlement and check again later.
+TXN00050,Refund requires review,2499,2499,MEDIUM,The transaction was refunded and should be checked against the refund record.,Verify the refund amount and refund status.
+TXN00053,Settlement pending,4999,0,MEDIUM,The payment was successful but the settlement has not completed yet.,Monitor the settlement and check again later.
+TXN00055,Refund requires review,4999,4999,MEDIUM,The transaction was refunded and should be checked against the refund record.,Verify the refund amount and refund status.
+TXN00059,Settlement pending,4999,0,MEDIUM,The payment was successful but the settlement has not completed yet.,Monitor the settlement and check again later.
+TXN00062,Refund requires review,999,999,MEDIUM,The transaction was refunded and should be checked against the refund record.,Verify the refund amount and refund status.
+TXN00064,Settlement pending,2999,0,MEDIUM,The payment was successful but the settlement has not completed yet.,Monitor the settlement and check again later.
+TXN00065,Refund requires review,1499,1499,MEDIUM,The transaction was refunded and should be checked against the refund record.,Verify the refund amount and refund status.
+TXN00066,Settlement pending,999,0,MEDIUM,The payment was successful but the settlement has not completed yet.,Monitor the settlement and check again later.
+TXN00068,Refund requires review,999,999,MEDIUM,The transaction was refunded and should be checked against the refund record.,Verify the refund amount and refund status.
+TXN00070,Settlement pending,499,0,MEDIUM,The payment was successful but the settlement has not completed yet.,Monitor the settlement and check again later.
+TXN00072,Settlement pending,199,0,MEDIUM,The payment was successful but the settlement has not completed yet.,Monitor the settlement and check again later.
+TXN00073,Refund requires review,1499,1499,MEDIUM,The transaction was refunded and should be checked against the refund record.,Verify the refund amount and refund status.
+TXN00080,Refund requires review,999,999,MEDIUM,The transaction was refunded and should be checked against the refund record.,Verify the refund amount and refund status.
+TXN00081,Settlement pending,199,0,MEDIUM,The payment was successful but the settlement has not completed yet.,Monitor the settlement and check again later.
+TXN00082,Settlement pending,199,0,MEDIUM,The payment was successful but the settlement has not completed yet.,Monitor the settlement and check again later.
+TXN00086,Settlement pending,1499,0,MEDIUM,The payment was successful but the settlement has not completed yet.,Monitor the settlement and check again later.
+TXN00089,Refund requires review,1999,1999,MEDIUM,The transaction was refunded and should be checked against the refund record.,Verify the refund amount and refund status.
+TXN00092,Refund requires review,2499,2499,MEDIUM,The transaction was refunded and should be checked against the refund record.,Verify the refund amount and refund status.
+TXN00093,Settlement pending,499,0,MEDIUM,The payment was successful but the settlement has not completed yet.,Monitor the settlement and check again later.
+TXN00094,Settlement pending,4999,0,MEDIUM,The payment was successful but the settlement has not completed yet.,Monitor the settlement and check again later.
+TXN00099,Settlement pending,499,0,MEDIUM,The payment was successful but the settlement has not completed yet.,Monitor the settlement and check again later.
+TXN00102,Settlement pending,2999,0,MEDIUM,The payment was successful but the settlement has not completed yet.,Monitor the settlement and check again later.
+TXN00103,Settlement pending,2499,0,MEDIUM,The payment was successful but the settlement has not completed yet.,Monitor the settlement and check again later.
+TXN00104,Settlement pending,799,0,MEDIUM,The payment was successful but the settlement has not completed yet.,Monitor the settlement and check again later.
+TXN00105,Settlement pending,799,0,MEDIUM,The payment was successful but the settlement has not completed yet.,Monitor the settlement and check again later.
+TXN00110,Refund requires review,4999,4999,MEDIUM,The transaction was refunded and should be checked against the refund record.,Verify the refund amount and refund status.
+TXN00116,Settlement pending,4999,0,MEDIUM,The payment was successful but the settlement has not completed yet.,Monitor the settlement and check again later.
+TXN00120,Refund requires review,299,299,MEDIUM,The transaction was refunded and should be checked against the refund record.,Verify the refund amount and refund status.

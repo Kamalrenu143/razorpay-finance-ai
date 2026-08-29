@@ -1,0 +1,49 @@
+transaction_id,order_id,amount,settlement_amount,issue
+TXN00002,ORD00002,299,299,Refund requires review
+TXN00004,ORD00004,4999,4999,Refund requires review
+TXN00008,ORD00008,1499,1599,Refund requires review
+TXN00009,ORD00009,199,199,Refund requires review
+TXN00010,ORD00010,1999,1999,Refund requires review
+TXN00011,ORD00011,4999,0,Settlement pending
+TXN00014,ORD00014,799,0,Settlement pending
+TXN00018,ORD00018,299,0,Settlement pending
+TXN00019,ORD00019,1999,2249,Amount mismatch
+TXN00020,ORD00020,799,799,Refund requires review
+TXN00023,ORD00023,499,499,Refund requires review
+TXN00024,ORD00024,1999,1999,Refund requires review
+TXN00025,ORD00025,2999,0,Settlement pending
+TXN00027,ORD00027,499,0,Settlement pending
+TXN00028,ORD00028,499,0,Settlement pending
+TXN00033,ORD00033,2999,0,Settlement pending
+TXN00034,ORD00034,2999,2999,Refund requires review
+TXN00035,ORD00035,1999,0,Settlement pending
+TXN00037,ORD00037,299,299,Refund requires review
+TXN00043,ORD00043,1999,0,Settlement pending
+TXN00050,ORD00050,2499,2499,Refund requires review
+TXN00053,ORD00053,4999,0,Settlement pending
+TXN00055,ORD00055,4999,4999,Refund requires review
+TXN00059,ORD00059,4999,0,Settlement pending
+TXN00062,ORD00062,999,999,Refund requires review
+TXN00064,ORD00064,2999,0,Settlement pending
+TXN00065,ORD00065,1499,1499,Refund requires review
+TXN00066,ORD00066,999,0,Settlement pending
+TXN00068,ORD00068,999,999,Refund requires review
+TXN00070,ORD00070,499,0,Settlement pending
+TXN00072,ORD00072,199,0,Settlement pending
+TXN00073,ORD00073,1499,1499,Refund requires review
+TXN00080,ORD00080,999,999,Refund requires review
+TXN00081,ORD00081,199,0,Settlement pending
+TXN00082,ORD00082,199,0,Settlement pending
+TXN00086,ORD00086,1499,0,Settlement pending
+TXN00089,ORD00089,1999,1999,Refund requires review
+TXN00092,ORD00092,2499,2499,Refund requires review
+TXN00093,ORD00093,499,0,Settlement pending
+TXN00094,ORD00094,4999,0,Settlement pending
+TXN00099,ORD00099,499,0,Settlement pending
+TXN00102,ORD00102,2999,0,Settlement pending
+TXN00103,ORD00103,2499,0,Settlement pending
+TXN00104,ORD00104,799,0,Settlement pending
+TXN00105,ORD00105,799,0,Settlement pending
+TXN00110,ORD00110,4999,4999,Refund requires review
+TXN00116,ORD00116,4999,0,Settlement pending
+TXN00120,ORD00120,299,299,Refund requires review
