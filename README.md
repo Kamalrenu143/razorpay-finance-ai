@@ -1,9 +1,6 @@
 # 💳 AI Finance Controller
 
 An AI-powered financial transaction reconciliation and exception management system built with Python and Streamlit.
-## 📊 Dashboard Preview
-
-![AI Finance Controller Dashboard](./dashboard.png)
 
 ## 🚀 Overview
 
@@ -115,5 +112,6 @@ The system demonstrates how payment transaction data can be automatically reconc
 Completed prototype with an interactive dashboard, transaction reconciliation, AI exception analysis, filtering, investigation, and CSV report export.
 
 ## 👨‍💻 Author
+kamal renu
 
 **Kamal Renu**
