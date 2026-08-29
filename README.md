@@ -3,7 +3,7 @@
 An AI-powered financial transaction reconciliation and exception management system built with Python and Streamlit.
 ## 📊 Dashboard Preview
 
-![AI Finance Controller Dashboard](dashboard.png)
+![AI Finance Controller Dashboard](./dashboard.png)
 
 ## 🚀 Overview
 
