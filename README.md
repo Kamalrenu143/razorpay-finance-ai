@@ -112,6 +112,5 @@ The system demonstrates how payment transaction data can be automatically reconc
 Completed prototype with an interactive dashboard, transaction reconciliation, AI exception analysis, filtering, investigation, and CSV report export.
 
 ## 👨‍💻 Author
-kamal renu
 
 **Kamal Renu**
