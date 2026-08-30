@@ -373,7 +373,7 @@ search = st.text_input(
 )
 
 # Start with sidebar-filtered transactions
-search_results = df.copy()
+search_results = filtered_data.copy()
 
 # Apply transaction ID search
 if search.strip():
